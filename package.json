@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "build": "echo 'fresh'",
         "vercel-build": "echo 'test'"
     }
 }
